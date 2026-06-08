@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yushi Tamaki.
-My research focuses on the structural design and synthesis methods of oxide- and nitride-based ceramic materials, as well as their applications as oxygen reduction reaction (ORR) catalysts.
-I am also engaged in the design and improvement of material synthesis equipment, such as heat-treatment furnaces.
+Welcome to my personal website.
+
+This site is currently under development and its contents will be expanded over time. For the most up-to-date information regarding my research activities, publications, and academic achievements, please refer to my [ResearchMap profile](https://researchmap.jp/YushiTamaki?lang=en).
