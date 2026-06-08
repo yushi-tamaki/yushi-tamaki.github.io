@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "profile.jpeg"
   name             : "Yushi Tamaki /玉置 友史"
   pronouns         : # example: "she/her"  
-  bio              : "Ph. D."
+  bio              : "Doctor of Engineering"
   location         : "Osaka, Japan"
   employer         : "Osaka Metropolitan University College of Technology"
   uri              : "https://researchmap.jp/YushiTamaki?lang=en"
@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2620-8929"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yushi-Tamaki"
   scopus           : # URL
   zotero           : # URL
 
@@ -58,7 +58,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : Yushi Tamaki
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Yushi Tamaki
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
