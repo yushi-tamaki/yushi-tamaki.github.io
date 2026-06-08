@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lecturer at Osaka Metropolitan University College of Technology"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
